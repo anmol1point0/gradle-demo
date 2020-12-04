@@ -1,0 +1,2 @@
+com/gradleDemoTest/MyApplicationTest.java
+ com.gradleDemoTest.MyApplicationTest

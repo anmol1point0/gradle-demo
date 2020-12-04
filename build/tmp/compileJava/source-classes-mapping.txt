@@ -1,0 +1,2 @@
+com/gradleDemo/MyApplication.java
+ com.gradleDemo.MyApplication
